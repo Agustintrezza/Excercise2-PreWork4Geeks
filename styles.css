@@ -1,0 +1,131 @@
+body {
+  background-color: rgb(205, 205, 205);
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+}
+.header {
+  background-color: white;
+}
+.contenedor-interno-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+  margin: auto;
+}
+.container-post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+.contenedor-logo-titulo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.conainer-post {
+  background-color: white;
+  width: 40%;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.post-image {
+  width: 95%;
+  height: 20rem;
+  margin: auto;
+  display: flex;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.title-postcard {
+  margin: 0px;
+  font-weight: 400;
+  font-size: 27px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.subtitle-postcard {
+  margin: 10px;
+  font-weight: 400;
+  font-size: 17px;
+  color: grey;
+}
+hr {
+  border: 1px solid rgb(208, 208, 208);
+}
+.texto {
+  font-size: 16px;
+  padding: 20px;
+  margin: 0px;
+  line-height: 22px;
+}
+.container-user-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.username {
+  margin: 0px;
+  margin-top: 4px;
+  font-size: 18px;
+  color: #478cf4;
+  font-weight: 300;
+  cursor: pointer;
+}
+.icon-containers {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  gap: 5px;
+}
+.icon-thumb {
+  font-size: 20px;
+  color: #478cf4;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.icon-hearth {
+  font-size: 20px;
+  color: rgb(255, 86, 86);
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+}
+.instagram-icon {
+  font-size: 40px;
+  color: violet;
+  margin-right: 10px;
+}
+.number-thumb {
+  font-size: 16px;
+  margin-left: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.number-hearth {
+  font-size: 15px;
+  margin-left: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.time-post {
+  font-size: 15px;
+  font-weight: 300;
+  color: grey;
+}
+.site-title {
+  font-size: 30px;
+  color: rgb(47, 47, 47);
+}
+.site-subtitle {
+  font-size: 20px;
+  color: rgb(47, 47, 47);
+  font-weight: 300;
+}
