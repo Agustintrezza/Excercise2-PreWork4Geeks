@@ -2,4 +2,4 @@
 
 # Link:
 
-# https://app.netlify.com/sites/lambent-sable-8da2ba/deploys/65adcd37fe2cc0d87315aa39
+# https://65adcd37fe2cc0d87315aa39--lambent-sable-8da2ba.netlify.app/
